@@ -1,0 +1,2 @@
+a5 -> BCD
+az6 -> decoder
